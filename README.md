@@ -1,4 +1,4 @@
-A Spring Boot web application example, using embedded Tomcat + JSP template, and package as an executable WAR file.
+A Springg Boot web application example, using embedded Tomcat + JSP template, and package as an executable WAR file.
 
 Technologies used :
 
